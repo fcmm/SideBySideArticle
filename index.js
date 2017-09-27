@@ -1,6 +1,7 @@
 import _ from 'lodash';
 
 import classNames from 'classnames';
+
 import { Row, Col } from 'react-bootstrap';
 import React, { Component, PropTypes } from 'react';
 import ChevronRight from 'components/icons/ChevronRight';
